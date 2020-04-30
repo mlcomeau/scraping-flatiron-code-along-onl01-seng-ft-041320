@@ -29,4 +29,3 @@ class Scraper
 
 end
 
-doc.css(".post").first.css("h2").text
